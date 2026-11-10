@@ -1,0 +1,11 @@
+.aprobado {
+    background-color: rgb(144, 251, 144);
+}
+
+.no-aprobado {
+    background-color: rgb(247, 72, 72);
+}
+
+.caja-producto {
+    border: 1px solid black;
+}
